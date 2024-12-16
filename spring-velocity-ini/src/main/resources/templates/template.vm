@@ -1,0 +1,4 @@
+[User]
+name=$pojo.name
+age=$pojo.age
+email=$pojo.email
